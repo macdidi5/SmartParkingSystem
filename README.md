@@ -20,7 +20,7 @@
 
 這個Android應用程式使用Host-based Card Emulation（HCE）技術，讓Android行動電話具備NFC感應卡功能，HCE必須在Android 4.4（API Level 19）或更新版本的實體裝置才可以運作。HCE相關的資訊可以參考<a href="https://developer.android.com/guide/topics/connectivity/nfc/hce.html">https://developer.android.com/guide/topics/connectivity/nfc/hce.html</a>。
 ##應用程式執行順序
-依照下列的順序啟動應用程式：
+依照下列的順序啟動應用程式，系統才可以正確的運作：
 
 1. SmartParkingEV3
 2. SmartParkingDemo
@@ -29,4 +29,5 @@
 ##關於作者
 * 個人檔案：<a href="http://tw.linkedin.com/in/macdidi5/zh-tw" target="_blank">http://tw.linkedin.com/in/macdidi5/zh-tw</a>
 * 專欄文章：<a href="http://www.codedata.com.tw/author/michael" target="_blank">http://www.codedata.com.tw/author/michael</a>
+* 電子書：<a href="https://play.google.com/store/books/author?id=%E5%BC%B5%E7%9B%8A%E8%A3%95">Google Play圖書</a>，<a href="http://www.pubu.com.tw/store/1023024">Pubu</a>。
 * 電子郵件：macdidi5@gmail.com
