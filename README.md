@@ -17,6 +17,8 @@
 這是一個LEJOS應用程式專案。LEJOS應用程式開發環境請參考<a href="http://www.codedata.com.tw/java/lego-mindstorms-ev3-lejos-mac-installation/" target="_blank">http://www.codedata.com.tw/java/lego-mindstorms-ev3-lejos-mac-installation/</a>(Mac OS)，或是<a href="http://www.codedata.com.tw/java/lego-mindstorms-ev3-lejos-windows-installation/" target="_blank">http://www.codedata.com.tw/java/lego-mindstorms-ev3-lejos-windows-installation/</a>(Windows)。建立好LEJOS開發環境以後，就可以開啟這個應用程式專案。
 ##SmartParkingMobile
 這是一個Android應用程式專案，專案使用的開發工具是Android Studio，所以你必須使用Android Studio開啟這個專案。Android Studio的相關資訊請參考<a href="http://developer.android.com/sdk/index.html" target="_blank">http://developer.android.com/sdk/index.html</a>。
+
+這個Android應用程式使用Host-based Card Emulation（HCE）技術，讓Android行動電話具備NFC感應卡功能，HCE必須在Android 4.4（API Level 19）或更新版本的實體裝置才可以運作。HCE相關的資訊可以參考<a href="https://developer.android.com/guide/topics/connectivity/nfc/hce.html">https://developer.android.com/guide/topics/connectivity/nfc/hce.html</a>。
 ##應用程式執行順序
 依照下列的順序啟動應用程式：
 
