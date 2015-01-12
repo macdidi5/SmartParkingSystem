@@ -1,7 +1,7 @@
 # SmartParkingSystem
 2015 Java/Orale Database認證日－未來的浪潮，Java嵌入式、Raspberry Pi與樂高Mindstorms EV3
 
-示範影片網址：<a href="http://youtu.be/Eit_9ONI364">http://youtu.be/Eit_9ONI364</a>
+示範影片網址：<a href="http://youtu.be/_9g_Ur6s5a0">http://youtu.be/_9g_Ur6s5a0</a>
 
 ##SmartParkingDemo
 這個應用程式必須在下列的環境執行：
